@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/611750355704404983/d328b0d7910e40a5852a27ab0cbaec0a/artifacts
+deleted_time: 1730444468943
+end_time: null
+entry_point_name: ''
+experiment_id: '611750355704404983'
+lifecycle_stage: deleted
+run_id: d328b0d7910e40a5852a27ab0cbaec0a
+run_name: salty-zebra-131
+run_uuid: d328b0d7910e40a5852a27ab0cbaec0a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730444310854
+status: 1
+tags: []
+user_id: Ahmeds

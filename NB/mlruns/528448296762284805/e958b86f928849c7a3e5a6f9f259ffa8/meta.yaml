@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/528448296762284805/e958b86f928849c7a3e5a6f9f259ffa8/artifacts
+deleted_time: 1730176490277
+end_time: 1730176015205
+entry_point_name: ''
+experiment_id: '528448296762284805'
+lifecycle_stage: deleted
+run_id: e958b86f928849c7a3e5a6f9f259ffa8
+run_name: trusting-kit-639
+run_uuid: e958b86f928849c7a3e5a6f9f259ffa8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730176015139
+status: 4
+tags: []
+user_id: Ahmeds

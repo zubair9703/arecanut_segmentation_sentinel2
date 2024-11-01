@@ -1,0 +1,6 @@
+artifact_location: mlflow-artifacts:/528448296762284805
+creation_time: 1730176015120
+experiment_id: '528448296762284805'
+last_update_time: 1730176015120
+lifecycle_stage: active
+name: Training unet

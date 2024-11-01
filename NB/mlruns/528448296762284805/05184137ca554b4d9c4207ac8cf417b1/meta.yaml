@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/528448296762284805/05184137ca554b4d9c4207ac8cf417b1/artifacts
+deleted_time: 1730176486114
+end_time: 1730176330246
+entry_point_name: ''
+experiment_id: '528448296762284805'
+lifecycle_stage: deleted
+run_id: 05184137ca554b4d9c4207ac8cf417b1
+run_name: amusing-newt-341
+run_uuid: 05184137ca554b4d9c4207ac8cf417b1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730176095572
+status: 4
+tags: []
+user_id: Ahmeds
